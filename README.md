@@ -13,9 +13,9 @@ NLTK: For natural language processing tasks.
 # Project Structure
 The code folder contains the following two scripts:
 
-Wine Review Analysis with Detailed Explanation (wine_review_analysis.py)
+Wine Review Analysis with Detailed Explanation (wine_review_analysis.py):
 This script includes detailed coding and explanations, addressing the problem statements above. It guides you through data preprocessing, exploratory data analysis, sentiment analysis, and visualizations to uncover insights about wine reviews.
 
-Wine Quality Prediction using Machine Learning (wine_quality_prediction.py)
+Wine Quality Prediction using Machine Learning (wine_quality_prediction.py):
 This script focuses on predicting the quality of wine using a machine learning model. It involves data preprocessing, feature engineering, model training, and evaluation to classify wine quality based on various features.
 
